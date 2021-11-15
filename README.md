@@ -1,9 +1,9 @@
 <h1 align="center">Hey! Anirudh here</h1>
 <h3 align="center">A passionate developer and a student.</h3>
 
-- 🔭 I’m currently working on **learning new languages**
+- 🔭 I’m currently working on **learning new Programming languages**
 
-- 🌱 I’m currently learning **Java, Java Script.**
+- 🌱 I’m currently learning **Java Script.**
 
 - 📫 How to reach me **anirudhjayakumar.business@gmail.com**
 
