@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **learning new Programming languages**
 
-- 🌱 I’m currently learning **Java Script.**
+- 🌱 I’m currently learning **Flutter, SQL**
 
 - 📫 How to reach me **anirudhjayakumar.business@gmail.com**
 
