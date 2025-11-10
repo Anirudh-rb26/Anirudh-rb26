@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **creating applications**
 
-- 🌱 I’m currently learning **Flutter**
-
 - 📫 How to reach me **anirudhjayakumar.business@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
